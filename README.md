@@ -1,0 +1,2 @@
+# MaterialBottomTabNavigator
+createMaterialBottomTabNavigator
